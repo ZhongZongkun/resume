@@ -15,7 +15,7 @@
 + 掌握Java语言,掌握MySQL,了解常见的设计模式。
 + 了解C++及常用数据结构和算法。
 + 了解TCP/IP协议，了解常用的Java集合框架。
-+ 了解Struts2 / Spring3 / Heibenate3 / Redis / Git /     Ajax / Jquery / Bootstrap。
++ 了解Struts2 / Spring3 / Hibernate3 / Redis / Git / Ajax / jQuery / Bootstrap。
 + 了解linux系统和Windows Server,了解常用的Linux命令,了解Shell。
 + 了解PHP及ThinkPHP3.1。
 + 了解docker原理，了解分布式系统，在实验室搭建过Hadoop。
