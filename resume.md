@@ -1,26 +1,27 @@
 ## 个人信息
-
 + 姓名： 钟宗坤 / 男 / 21
-+ 邮箱： zhongzongkun@gmail.com
 + github：https://github.com/ZhongZongkun
 + blog： http://blog.csdn.net/situliang
-+ 学校： 中国民用航空飞行学院 / 本科
-+ 专业： 计算机科学与技术
-+ 时间： 2014.9-2018.6
++ 邮箱： zhongzongkun@gmail.com
 + 期望职位： Java后端实习生
 + 实习时间： 2017.07.15-2018.04
-+ 电话: 15982947832
++ 联系电话: 15982947832
+## 教育背景
++ 学校： 中国民用航空飞行学院 / 本科 / 计算机科学与技术
++ 时间： 2014.9-2018.6
++ 英语：大学英语四级
++ 专业课程：C++/Java/数据结构/数据库原理/Java Web/SSH框架/计算机网络/计算机操作系统/软件工程
++ 专业成绩专业前10%,总成绩前20%。GPA：3.57/5.0
 
 ## 专业技能
-+ 掌握Java语言,掌握MySQL,了解常见的设计模式。
-+ 了解C++及常用数据结构和算法。
-+ 了解TCP/IP协议，了解常用的Java集合框架。
-+ 了解Struts2 / Spring3 / Heibenate3 / Redis / Git /     Ajax / Jquery / Bootstrap。
-+ 了解linux系统和Windows Server,了解常用的Linux命令,了解Shell。
-+ 了解PHP及ThinkPHP3.1。
-+ 了解docker原理，了解分布式系统，在实验室搭建过Hadoop。
++ 熟悉Java语言和常用的集合框架,熟悉MySQL,掌握常见的设计模式,MVC架构。
++ 掌握HTTP协议，熟悉前后端交互原理。
++ 掌握PHP及ThinkPHP框架。
++ 掌握Struts2 / Spring3 / Hibernate3 / Redis / Git / Ajax / jQuery / Bootstrap。
++ 掌握linux系统和Windows Server,了解常用的Linux命令,了解Shell。
++ 了解C++,掌握常用数据结构和算法。了解docker原理，了解分布式系统，在实验室搭建过Hadoop。
 ## 个人荣誉
-+ 2016年-校内网页设计大赛三等奖。
++ 2016年-国家奖学金。
 + 2017年-校内网页设计一等奖。
 + 2017年-ACM四川省赛铜奖。
 
@@ -37,9 +38,9 @@
     + 需求来源由广汉市政府
     + 2016.10~2017.02
     + 项目描述：会议筹备人员登录系统后台,创建会议并新建议题,输入相关人员信息后上传相关文件,根据需求对文件进行排序。参会人员访问前台选择会议议题,按页显示在平板上,可以对当前页进行标注和标注擦除,点击按钮切换上下页且不影响各页的标注。
-    + 项目源码：https://github.com/ZhongZongkun/openoffice(V1) https://github.com/ZhongZongkun/office(V2)
+    + 项目源码：https://github.com/ZhongZongkun/openoffice https://github.com/ZhongZongkun/office
     + 责任描述：
 负责数据库的设计,后端代码的编写及使用Ajax与前端进行交互。
-    + (第一个版本)使用php调用Openoffice将上传的word,excel,ppt转换成pdf,在根据管理员的排序逻辑使用pdf-merge将多个pdf合并成一个pdf,最后使用ImageMagick将pdf转换换成图片用于前端显示。
+    + (第一个版本)使用php调用OpenOffice将上传的word,excel,ppt转换成pdf,在根据管理员的排序逻辑使用pdf-merge将多个pdf合并成一个pdf,最后使用ImageMagick将pdf转换换成图片用于前端显示。
     + (第二版本)由于政府人员对图片清晰度不满意,只能借助专业软件将文档转换成图片压缩包,管理员直接上传图片压缩包并排序,后端自动将压缩包解压到一个文件夹中且按照指定逻辑将图片排序。
 
