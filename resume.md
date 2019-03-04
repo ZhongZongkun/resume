@@ -1,29 +1,29 @@
-## 个人信息
-+ 姓名： 钟宗坤 / 男 / 21
-+ github：https://github.com/ZhongZongkun
-+ blog： http://blog.csdn.net/situliang
-+ 邮箱： zhongzongkun@gmail.com
-+ 期望职位： Java后端实习生
-+ 实习时间： 2017.07.15-2018.04
-+ 联系电话: 15982947832
+## 基本信息
++ <font size=3>**求职意向： 大数据开发工程师**</font>
++ <font size=3>姓名：钟宗坤 / 男 / 1995.12.02 / 1年工作经验 </font>
++ <font size=3>邮箱： zhongzongkun@gmail.com</font>
++ <font size=3>联系电话: 17788770956</font>
 ## 教育背景
-+ 学校： 中国民用航空飞行学院 / 本科 / 计算机科学与技术
-+ 时间： 2014.9-2018.6
-+ 英语：大学英语四级
-+ 专业课程：C++/Java/数据结构/数据库原理/Java Web/SSH框架/计算机网络/计算机操作系统/软件工程
-+ 专业成绩专业前10%,总成绩前20%。GPA：3.57/5.0
-
++ <font size=3>**2014.09-2018.07&ensp;&ensp;&ensp;中国民用航空飞行学院&ensp;&ensp;&ensp;计算机科学与技术&ensp;&ensp;&ensp;统招本科**</font> 
++ <font size=3>英语：大学英语六级</font>
++ <font size=3>获奖情况:</font>
+	+ 2016年-国家奖学金。
+	+ 2017年-国家奖学金。
+	+ 2017年-ACM四川省赛铜奖。
 ## 专业技能
-+ 熟悉Java语言和常用的集合框架,熟悉MySQL,掌握常见的设计模式,MVC架构。
-+ 掌握HTTP协议，熟悉前后端交互原理。
-+ 掌握PHP及ThinkPHP框架。
-+ 掌握Struts2 / Spring3 / Hibernate3 / Redis / Git / Ajax / jQuery / Bootstrap。
-+ 掌握linux系统和Windows Server,了解常用的Linux命令,了解Shell。
-+ 了解C++,掌握常用数据结构和算法。了解docker原理，了解分布式系统，在实验室搭建过Hadoop。
-## 个人荣誉
-+ 2016年-国家奖学金。
-+ 2017年-校内网页设计一等奖。
-+ 2017年-ACM四川省赛铜奖。
++ <font size=3>熟悉Java语言和在MVC的架构下进行JavaWeb开发或进行Restful API的开发。</font>
++ <font size=3>能独立使用使用SSH(Struts2、Spring3、Hibernate)和SSM（Spring、SpringMVC、Mybatis）采用MVC架构整合前端框架（Bootstrap等）开发企业级Web系统。</font>
++ <font size=3>掌握MySQL、Oracle、Redis数据库的使用。</font>
++ <font size=3>掌握在Linux和Windows服务器上Web项目在Tomcat中的部署，掌握常用的Linux命令。</font>
++ <font size=3>了解分布式系统，搭建过伪分布运行模式的Hadopp集群。</font>
++ <font size=3>了解Docker、Nginx、QuartZ、SVN、Git、Spring Boot的基本使用</font>
+
+## 工作经历
++ 熟悉Java语言和在MVC的架构下进行JavaWeb开发或进行Restful API的开发。
++ 能独立使用使用SSH(Struts2、Spring3、Hibernate)和SSM（Spring、SpringMVC、Mybatis）采用MVC架构整合前端框架（Bootstrap等）开发企业级Web系统。
++ 掌握MySQL、Oracle、Redis数据库的使用，掌握在Linux和Windows服务器上Web项目在Tomcat中的部署，掌握常用的Linux命令。
++ 了解分布式系统的基本原理，具有伪分布运行模式下Hadopp集群的搭建经验。
++ 了解Spring Boot、Docker、Nginx、QuartZ、SVN、Git的基本使用。
 
 ## 项目经验
 + 气象综合管理平台
