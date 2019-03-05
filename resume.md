@@ -40,10 +40,7 @@
 ## 项目经历
 + <font size=4>**2016.10~2017.09&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;无纸化会议系统&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;核心开发人员**</font>
     + <font size=3>描述：在Windows服务器上调用OpenOffice和ImageMagick软件提供的API接口完成将会议所需的文件（电子版）统一转换为图片，服务端根据用户需求对文件进行排序，前端利用Canvas实现对图片进行批注。由于客户对图片清晰度的要求，团队根据官方英文文档修改软件配置的方法完成需求。</font>
-    + <font size=3>业绩：此系统来自政府供应商的商业化需求，该系统与平板设备（Surface Pro4）的结合，极大的提高了办公会议的高效性和便携性，为无纸化办公提供了一个新的解决方案。</font>
-<br/>
-<br/>
-<br/>
+    + <font size=3>业绩：此系统来自政府供应商的商业化需求，该系统与平板设备（Surface Pro4）的结合，极大的提高了办公会议的高效性和便携性，为无纸化办公提供了一个新的解决方案。</font><br/><br/><br/><br/>
 + <font size=4>**2018.12~2019.02&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;第三方问题报告系统&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;核心开发人员**</font>
     + <font size=3>描述：在公司原有的问题报告系统上基于SSM开发提供给第三方使用的问题报告系统，使用JSON进行前后端数据交互，缓存使用Redis，前端使用Bootstrap。使用enum类封装错误状态码及错误信息，使用抛出自定义异常的方式进行参数校验，对于系统中出现的异常统一捕获并返回相关的JSON。</font>
     + <font size=3>业绩：此系统独立完成前后端并上线，在熟悉原系统代码逻辑和在已有的系统架构上，尽量使用主流的技术解决方案，如API架构，AJAX数据交互，统一异常处理，使用Redis缓存将响应时间由10s提升至2s。</font>
